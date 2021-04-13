@@ -1,7 +1,10 @@
 # Machine-Learning-Using-Scikit-Learn
 
 Brief Description:
+
 In this project, I used machine learning to train and then predict off of astronomical data. 
+
+
 
 Python Libraries used:
 
