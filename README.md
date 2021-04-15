@@ -4,7 +4,7 @@
 
 In this project, I used machine learning to train and then predict off of astronomical data. 
 
-test
+
 
 #### Python Libraries used:
 
